@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi dear👋, welcome to my Github
 
-<!--
-**elvisonob/elvisonob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>My Stack</h3>
+HTML | CSS | Javascript | React | Redux | NodeJS | Express
 
-Here are some ideas to get you started:
+<h3>About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Open to Junior Full Stack Software Developer role
+- Recent Graduate from a full stack developer bootcamp with Boolean UK
+- MSc Oil and Gas Engineering
+- MEng Electrical and Telecommunication Engineering
+- BEng Electrical and Electronics Engineering (2:1)
+- I am currently learning Typescript
+- I love learning new things, reading, being physically active, and spending time with family
