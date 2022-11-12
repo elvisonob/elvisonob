@@ -11,4 +11,4 @@ HTML | CSS | Javascript | React | Redux | NodeJS | Express
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
 - I am currently learning Typescript
-- I love learning new things, reading, being physically active, and spending time with family
+- I love learning new things, reading, exercising, and spending time with family
