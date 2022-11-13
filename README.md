@@ -1,6 +1,6 @@
 Hi dear👋, welcome to my Github
 
-<h3>My Stack</h3>
+<h3>My current Stack</h3>
 HTML | CSS | Javascript | React | Redux | NodeJS | Express
 
 <h3>About Me</h3>
