@@ -1,4 +1,4 @@
-Hi dear👋, welcome to my Github
+Hi there👋, welcome to my Github
 
 <h3>My current Stack</h3>
 HTML | CSS | Javascript | React | Redux | NodeJS | Express
