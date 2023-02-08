@@ -7,7 +7,7 @@ HTML | CSS | Javascript | React | Redux | NodeJS | Express
 
 - Open to Junior Full Stack Software Developer role
 - Recent Graduate from a full stack developer bootcamp with Boolean UK
-- I am currently learning Typescript, and building another MERN project
+- I am currently learning NextJS, and building another MERN project
 - MSc Oil and Gas Engineering
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
