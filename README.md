@@ -1,7 +1,7 @@
 Hi there👋, welcome to my Github
 
 <h3>My current Stack</h3>
-HTML | CSS | Javascript | TypeScrpit | React | Redux | NodeJS | Express
+HTML | CSS | JavaScript | TypeScript | React | Redux | NodeJS | Express
 
 <h3>About Me</h3>
 
