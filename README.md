@@ -7,7 +7,7 @@ HTML | CSS | JavaScript | TypeScript | React | Redux | NodeJS | Express
 
 - Open to Full Stack Software Developer role
 - Graduate from a full stack developer bootcamp with Boolean UK
-- I am currently learning Unit Testing/TypeScript, and using GraphQL for a new MERN project.
+- I am currently learning NextJS
 - MSc Oil and Gas Engineering
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
