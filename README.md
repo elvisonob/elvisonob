@@ -6,7 +6,7 @@ HTML | CSS | JavaScript | TypeScript | React | Redux | NodeJS | Express
 <h3>About Me</h3>
 
 - Open to Full Stack Software Developer role
-- Graduate from a full stack developer bootcamp with Boolean UK
+- Graduate from a full stack development institute with Boolean UK
 - I am currently learning NextJS
 - MSc Engineering
 - MEng Electrical and Telecommunication Engineering
