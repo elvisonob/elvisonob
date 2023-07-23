@@ -1,13 +1,13 @@
 Hi there👋, welcome to my Github
 
 <h3>My current Stack</h3>
-HTML | CSS | JavaScript | TypeScript | React | Redux | NodeJS | Express
+HTML | CSS | JavaScript | TypeScript | React | NextJS | NodeJS | Express
 
 <h3>About Me</h3>
 
 - Open to Full Stack Software Developer role
 - Graduate from a full stack development institute with Boolean UK
-- I am currently learning NextJS
+- I am currently learning Jest
 - MSc Engineering
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
