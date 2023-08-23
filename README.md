@@ -5,9 +5,8 @@ HTML | CSS | JavaScript | TypeScript | React | NextJS | NodeJS | Express
 
 <h3>About Me</h3>
 
-- Open to Full Stack Software Developer role
 - Graduate from a full stack development institute with Boolean UK
-- I am currently learning Jest unit test
+- I am currently learning Cypress End-to-End testing
 - MSc Oil and Gas Engineering
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
