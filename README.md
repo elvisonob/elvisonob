@@ -7,7 +7,7 @@ HTML | CSS | JavaScript | TypeScript | React | NextJS | NodeJS | Express
 
 - Open to Software Development role
 - Alumnus from a full stack development institute
-- I am currently learning Cypress End-to-End testing
+- I am currently building another MERN application and learning Cypress End-to-End testing
 - MSc Oil and Gas Engineering
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
