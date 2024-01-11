@@ -11,4 +11,4 @@ HTML | CSS | JavaScript | TypeScript | React | NextJS | NodeJS | Express | Unit 
 - MSc Oil and Gas Engineering
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
-- Outside of coding, I love learning new things, reading, exercising, and spending time with family and friends.
+- Outside of coding, I love learning new things(currently learning Spanish amongst others), reading, exercising, and spending time with family and friends.
