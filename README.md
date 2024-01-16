@@ -6,7 +6,7 @@ HTML | CSS | JavaScript | TypeScript | React | NextJS | NodeJS | Express | Unit 
 <h3>About Me</h3>
 
 - Open to Software Development role
-- Alumnus from a full stack development institute
+- Alumnus of a full stack development academy
 - I am currently building another MERN application with TypeScript
 - MSc Oil and Gas Engineering
 - MEng Electrical and Telecommunication Engineering
