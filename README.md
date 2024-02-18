@@ -6,7 +6,7 @@ HTML | CSS | JavaScript | TypeScript | React | NextJS | NodeJS | Express | Unit 
 <h3>About Me</h3>
 
 - Open to Software Development role
-- Certified in Software Engineering
+- Certified in Software Development Engineering
 - I am currently working on a new Application
 - MSc Oil and Gas Engineering
 - MEng Electrical and Telecommunication Engineering
