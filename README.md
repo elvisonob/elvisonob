@@ -7,7 +7,7 @@ HTML | CSS | JavaScript | TypeScript | React | NextJS | NodeJS | Express | Unit 
 
 - Open to Software Development role
 - Certificate in Full Stack Software Development Engineering
-- I am currently working on a new Application
+- I am currently working on a new Quiz Application
 - MSc Oil and Gas Engineering
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
