@@ -9,7 +9,7 @@ HTML | CSS | JavaScript | TypeScript | React | NextJS | NodeJS | Express | Unit 
 
 - Open to Software Development role
 - Certificate in Full Stack Software Development Engineering
-- I am currently learning C# and working on a decoupled RESTAPI Project
+- I am currently learning C# and working on a React Project
 - MSc Oil and Gas Engineering
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
