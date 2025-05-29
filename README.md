@@ -9,7 +9,7 @@ HTML | CSS | JavaScript | TypeScript | React | NextJS | NodeJS | Express | Unit 
 
 - Open to Software Development role
 - Certificate in Full Stack Software Development Engineering
-- I am currently working on a Full stack project with React and NodeJS and learning more Hooks
+- I am currently working on an exclusive Film Recommendation Application to save time from constant scrolling.
 - Msc Oil and Gas Engineering
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
