@@ -9,8 +9,7 @@ JavaScript | TypeScript | React | NextJS | NodeJS | Express | Unit testing(Jest)
 
 - Open to Software Development role
 - Certified in Full Stack Software Development Engineering
-- I am currently refining my hands-on knowledge of React Testing.
-- Msc Oil and Gas Engineering
+- I am currently refining my hands-on and practical knowledge of React Testing.
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
 - Outside of coding, I enjoy learning new things, reading, exercising, and spending quality time with family and friends.
