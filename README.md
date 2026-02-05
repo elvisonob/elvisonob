@@ -7,7 +7,6 @@ JavaScript | TypeScript | React | NextJS | NodeJS | Express | TDD(Jest)
 
 <h3>About Me</h3>
 
-- Open to Software Development role
 - Certified in Full-Stack Software Development
 - I am currently refining my hands-on and practical knowledge of React Testing with a Project.
 - MEng Electrical and Telecommunication Engineering
