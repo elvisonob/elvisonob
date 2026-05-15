@@ -7,7 +7,7 @@ JavaScript | TypeScript | React | NextJS | NodeJS | Express | TDD (Jest and Play
 
 <h3>About Me</h3>
 
-- Software Development at Ace-Tech
+- Software Developer at Ace-Tech
 - I am currently refining my hands-on and practical knowledge of React Testing with a Project.
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
