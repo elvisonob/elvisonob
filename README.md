@@ -7,8 +7,8 @@ JavaScript | TypeScript | React | NextJS | NodeJS | Express | TDD (Jest and Play
 
 <h3>About Me</h3>
 
-- Software Developer at Ace-Tech
-- I am currently refining my hands-on and practical knowledge of React Testing with a Project.
+- Software Developer at Ace Aquatec
+- I am currently working on a bespoke Estimator application.
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
-- Outside of coding, I enjoy learning new things, reading, exercising, and spending quality time with family and friends.
+- Outside of coding, I enjoy learning new things, reading, staying active, and spending quality time with family and friends.
