@@ -9,7 +9,7 @@ JavaScript | TypeScript | React | NextJS | NodeJS | Express | TDD (Jest and Play
 
 - Software Developer at Ace Aquatec
 - I am currently working on a bespoke Estimator application
-- Full-Stack Software Engineering (Professional Certificate)
+- Full-Stack Software Engineering (Certified)
 - MEng Electrical and Telecommunication Engineering
 - BEng Electrical and Electronics Engineering (2:1)
 - Outside of coding, I enjoy learning new things, reading, staying active, and spending quality time with family and friends.
